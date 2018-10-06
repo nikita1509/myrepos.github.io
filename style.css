@@ -1,0 +1,53 @@
+<html>
+    <head>
+        <title>My first website</title>>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">  
+        
+                <link rel="stylesheet"href="style.css">
+            
+          
+          
+        
+    </head>>
+    <body>
+        <h1>hii </h1>>
+        <h2>Hi VIT </h2>>
+        </body>>
+        <p>
+           this is vit vellore. 
+        </p>>
+        <ul>
+            <li>one laptop</li>
+            <li>two speakers</li>
+        </ul>>
+        <ol type=i>
+            <li>a</li>>
+            <li>b</li>>
+            <li>c</li>>
+        </ol>>
+        <table>
+            
+                <th>firstname</th>>
+                <th>lastname</th>
+                <th>age</th>
+                <tr>
+                        <td>Jill</td>
+                        <td>Smith</td> 
+                        <td>50</td>
+                      </tr>
+                      <tr>
+                        <td>Eve</td>
+                        <td>Jackson</td> 
+                        <td>94</td>
+                      </tr>
+            
+        </table>
+        <br>
+        <br>
+        <img src="download.jpg"alt="pic">
+        <br>
+
+        <a href="http://google.com">Google</a>
+</html>
